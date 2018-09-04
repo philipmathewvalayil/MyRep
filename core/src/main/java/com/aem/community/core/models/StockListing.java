@@ -17,9 +17,9 @@ public class StockListing {
 	    @PostConstruct
 	    protected void init() {
 	    	list= new ArrayList<>();
-			 list.add("A");
-			 list.add("V");
-	        message = "\tHello World!\n";
+			 list.add("APHILIP");
+			 list.add("VSANTHOSH");
+	        message = "\tHello World !\n";
 	    }
 	    
 	public List<String> getList(){		
