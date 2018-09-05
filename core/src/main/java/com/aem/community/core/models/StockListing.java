@@ -17,7 +17,7 @@ public class StockListing {
 	    @PostConstruct
 	    protected void init() {
 	    	list= new ArrayList<>();
-			 list.add("APHILIP");
+			 list.add("APHILIP Test");
 			 list.add("VSANTHOSH Second");
 	        message = "\tHello World !\n";
 	    }
