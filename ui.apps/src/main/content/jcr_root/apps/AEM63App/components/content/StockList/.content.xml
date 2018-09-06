@@ -3,4 +3,4 @@
     jcr:description="StockList"
     jcr:primaryType="cq:Component"
     jcr:title="Stock LIst"
-    componentGroup="Stock"/>
+    componentGroup="AEM63App"/>

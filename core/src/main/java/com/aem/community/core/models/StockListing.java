@@ -16,13 +16,14 @@ public class StockListing {
 
 	    @PostConstruct
 	    protected void init() {
-	    	list= new ArrayList<>();
-			 list.add("APHILIP Test Afeter lunch hjk");
-			 list.add("VSANTHOSH Second");
+	    	
 	        message = "\tHello World !\n";
 	    }
 	    
 	public List<String> getList(){		
+		list= new ArrayList<>();
+		 list.add("APHILIP Test Afete ");
+		 list.add("VSANTHOSH Second");
 		return list;
 	}
 	 
